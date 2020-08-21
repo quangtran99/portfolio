@@ -22,14 +22,6 @@ export default function AboutMe() {
                                     <li>I'm enthusiastic developer with high flexibility to adapt to new working environment.</li>
                                     <li>I'm looking forward oppurtunities and fully ready for challenges.</li>
                                 </ul>
-                                <div className="social-icons pt-5">
-                                    <a href="https://www.facebook.com/tranviet.quang.94/">
-                                        <i className="fab fa-facebook fa-3x mr-2"></i>
-                                    </a>
-                                    <a href="https://github.com/quangtran99/">
-                                        <i className="fab fa-github-square fa-3x mx-2"></i>
-                                    </a>
-                                </div>
                             </div>
                         </div>
                     </main>

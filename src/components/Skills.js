@@ -4,7 +4,7 @@ import { ProgressBar } from "react-bootstrap";
 export default function Skills() {
     return (
         <>
-            <div className="container-fluid">
+            <div className="container-fluid ">
                 <section>
                     <main className="offset-md-2 my-3 px-3 pt-3" id="skills">
                         <h1 className="title">Skills</h1>

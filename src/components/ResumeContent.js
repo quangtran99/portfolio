@@ -6,6 +6,7 @@ import Skills from './Skills';
 import Portfolio from './Portfolio';
 import Interests from './Interests';
 import ReadingProgress from './ReadingProgress';
+import { Col, Row } from "react-bootstrap";
 
 
 
@@ -13,10 +14,10 @@ import ReadingProgress from './ReadingProgress';
 export default function ResumeContent() {
     const target = React.createRef();
     return (
-        <div>
+        <div >
             <ReadingProgress target={target} />
-            <div ref={target}>
-                <AboutMe />
+            <div ref={target} >
+                <AboutMe  />
                 <Education />
                 <Experience />
                 <Skills />
