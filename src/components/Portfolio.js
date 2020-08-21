@@ -80,7 +80,7 @@ export default function Portfolio() {
                     </main>
                 </section>
             </div>
-            <hr></hr>
+
         </>
     );
 }

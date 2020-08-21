@@ -34,7 +34,7 @@ export default function Education() {
             </main>
           </section>
         </div>
-        <hr></hr>
+
       </>
     );
   }

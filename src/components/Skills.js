@@ -97,7 +97,7 @@ export default function Skills() {
                     </main>
                 </section>
             </div>
-            <hr></hr>
+
         </>
     );
 }
