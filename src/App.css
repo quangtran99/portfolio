@@ -206,3 +206,7 @@ main .description {
   width: 100vw;
   height:80vh;
 }
+
+.carousel-control-next-icon {
+  color: black !important
+}
