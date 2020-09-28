@@ -78,14 +78,6 @@ main .description {
   color :grey
 }
 
-.reading-progress-bar {
-  position: sticky;
-  height: 0.5rem;
-  top: 0;
-  background-color: black;
-  z-index: 1000;
-}
-
 .dropdown-content {
   display: none;
   /* position: absolute; */
@@ -210,3 +202,11 @@ main .description {
   color: #fff;
 }
 
+.quang-style{
+  width: 100vw;
+  height:80vh;
+}
+
+.carousel-control-next-icon {
+  color: black !important
+}

@@ -23,7 +23,7 @@ export default function Experience() {
                     </main>
                 </section>
             </div>
-            <hr></hr>
+
         </>
     )
 }

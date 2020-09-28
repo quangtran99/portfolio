@@ -20,14 +20,14 @@ export default function AboutMe() {
                                 <ul className="lead pt-2">
                                     <li>A young marketer who decided to become a Full-Stack Web Developer.</li>
                                     <li>I'm enthusiastic developer with high flexibility to adapt to new working environment.</li>
-                                    <li>I'm looking forward oppurtunities and fully ready for challenges.</li>
+                                    <li>I'm looking forward opportunities  and fully ready for challenges.</li>
                                 </ul>
                             </div>
                         </div>
                     </main>
                 </section>
             </div>
-            <hr></hr>
+
         </>
     );
 }
